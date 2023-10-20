@@ -1,0 +1,23 @@
+#footer{
+    background-color: black;
+    color: #fff;
+}
+
+.nav-item a:hover{
+    border-bottom: 2px solid rgb(103, 242, 10);
+}
+.dropdown:hover > .dropdown-menu{
+    display: block;
+}
+.col-auto img{
+    height:82px;
+    width: 180px;
+}
+#myimg a:hover{
+    color: #caa64d;
+    text-decoration: none;
+}
+#myimg a{
+    text-decoration: none;
+    color: black;
+}

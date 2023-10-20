@@ -1,0 +1,64 @@
+.nav-item a:hover{
+    border-bottom: 2px solid rgb(103, 242, 10);
+}
+.dropdown:hover > .dropdown-menu{
+    display: block;
+}
+.col-auto img{
+    height:82px;
+    width: 180px;
+}
+#myfirstcontainer{
+    background-image: url(sugar1.png);
+   height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 100%;
+    transition: all 3s 2s;
+    background-size: 100%;
+
+}
+#myimage1{
+     background-image: url(green-field-in-sunny-day-vector.jpg);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+#myfirstcontainer h1{
+    padding-right: 59%;
+    color: hwb(35 2% 4%);
+    padding-top: 10%;
+    padding-bottom:20%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+
+#myfirstcontainer:hover{
+  
+    background-image: url(Choose\ the\ healthy\ option\ with\ Himalayan\ Pink\ Salt!\ .png);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 100%;
+    background-size: 100%;
+
+}
+#myimage2{
+    background-image: url(farmer.jpg);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#footer{
+    background-color: black;
+    color: #fff;
+}

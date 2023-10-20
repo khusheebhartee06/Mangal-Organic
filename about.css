@@ -1,0 +1,42 @@
+#footer {
+    background-color: black;
+    color: #fff;
+}
+
+#myfirstcontainer h1 {
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 15%;
+    padding-left: 75%;
+    color: hwb(82 4% 4%);
+    padding-bottom: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.nav-item a:hover {
+    border-bottom: 2px solid rgb(103, 242, 10);
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.col-auto img {
+    height: 82px;
+    width: 180px;
+}
+
+#myfirstcontainer {
+    background-image: url(about.jpg);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 100%;
+    transition: all 3s 2s;
+    background-size: 100%;
+    background-position: 100%;
+}
